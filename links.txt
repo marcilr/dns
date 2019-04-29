@@ -8,6 +8,22 @@ Domain Name System (DNS) related links
 
 Links
 =====
+Bind9 - Debian Wiki
+https://wiki.debian.org/Bind9
+
+Building A Debian DNS System - HowtoForge
+https://www.howtoforge.com/debian_dns
+
+Configure DNS Server On Debian 9 / Ubuntu 16.04 - ITzGeek
+https://www.itzgeek.com › How To's › Linux › Debian
+
+DNS - Debian Wiki
+https://wiki.debian.org/DNS
+
 Domain Name System
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Domain_Name_System
+
+NetworkConfiguration - Debian Wiki
+https://wiki.debian.org/NetworkConfiguration
+
