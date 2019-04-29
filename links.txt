@@ -1,0 +1,13 @@
+links.txt
+Created Mon Apr 29 14:49:41 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Domain Name System (DNS) related links
+
+
+Links
+=====
+Domain Name System
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Domain_Name_System
