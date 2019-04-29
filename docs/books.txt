@@ -1,0 +1,20 @@
+books.txt
+Created Mon Apr 29 15:12:34 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Books for dns
+
+
+Books
+=====
+Pro DNS and BIND 10
+by Aitchison, Ron
+o ISBN 978-1-4302-3049-6
+o Digitally watermarked, DRM-free
+o Included format: PDF
+o ebooks can be used on all reading devices
+o Immediate eBook download after purchase
+price: $23.99 (ebook)
+Looks good
+https://www.apress.com/us/book/9781430230489?token=spring19&utm_campaign=3_fjp8312_Apress_US_Shopping_spring19&gclid=CjwKCAjwwZrmBRA7EiwA4iMzBGCiAQMV5CPnPrtRzFky2jiyltB-H93lc3vCmdVyeqI3awWjImZ-QBoC1fgQAvD_BwE
